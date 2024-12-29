@@ -1,0 +1,15 @@
+{
+    "name": "proof/andrey",
+    "autoload": {
+        "psr-4": {
+            "Match\\": "src/classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "proof",
+            "email": "proof@gmail.com"
+        }
+    ],
+    "require": {}
+}
